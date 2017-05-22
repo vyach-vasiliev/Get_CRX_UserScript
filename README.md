@@ -1,2 +1,2 @@
 # Get extension from Chrome webstore (UserScript)
-[See here](docs/index.html)
+[See here](https://vyach-vasiliev.github.io/Get_CRX_UserScript/)
