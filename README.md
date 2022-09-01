@@ -1,8 +1,7 @@
-<!--
 <p>
 <a href="/LICENSE"><img src="https://img.shields.io/github/license/vyach-vasiliev/Get_CRX_UserScript"/></a>
 </p>
--->
+
 
 # Get extension file from Chrome webstore
 
